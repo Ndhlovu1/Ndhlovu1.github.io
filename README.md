@@ -14,6 +14,7 @@ Still in development
 ![Screenshot 2023-01-09 at 16-35-18 My Portfolio](https://user-images.githubusercontent.com/46927702/211333141-76c6f0aa-5672-47bc-9eae-7a576152301f.png)
 
 ### Footer and Certificates
+![Screenshot 2023-01-09 at 16-38-48 My Portfolio](https://user-images.githubusercontent.com/46927702/211333966-27992b78-3716-470b-bd7f-f03d5ba645b7.png)
 
 
 
