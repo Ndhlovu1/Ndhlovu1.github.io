@@ -1,0 +1,16 @@
+{
+    "name": "The Back-End Guru 🔥",
+    "description": "Introducing the legendary symbol of a senior software engineer. The Back-End Guru. Mint your very own nft of this logo and showcase this badge as a legendary software developer. This is the ultimate symbol of perfection. marked by Ndhlovu1 a.k.a The Back-End Guru!",
+    "image": "https://ndhlovu1.github.io/img/logo2.png",
+    "external_url": "https://ndhlovu1.github.io",
+    "attributes": [
+        {
+            "trait_type": "Artefact", 
+            "value": "Badge"
+        },
+        {
+            "trait_type": "Collection", 
+            "value": "Legendary"
+        }
+    ]
+}
